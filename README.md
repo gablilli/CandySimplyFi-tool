@@ -7,13 +7,16 @@ More info here: https://community.home-assistant.io/t/dishwasher-candy-simply-fi
 
 Binaries for windows & linux x64 are in the bin folder
 
-## Compile on Windows
+## Compile
+use the workflow :-)
+
+### Compile on windows
 Just use Visual Studio
 
-## Compile on Linux
+### Compile on Linux
 `g++ CandySimplyFi.cpp -o simplyfi`
 
-## Compile on MacOS
+### Compile on MacOS
 `g++ -std=c++11 CandySimplyFi.cpp -o simplyfi`
 
 ## Usage
